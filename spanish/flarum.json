@@ -1,0 +1,25 @@
+{
+    "name": "spanish",
+    "title": "Spanish",
+    "description": "Translates Flarum and its bundled extensions to Spanish",
+    "keywords": [""],
+    "version": "0.1.0",
+    "author": {
+        "name": "Johann Rodr\u00edguez",
+        "email": "johann@flarum.es"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "https://github.com/johannsa/FlarumES",
+        "issues": "https://github.com/johannsa/FlarumES/issues"
+    },
+    "icon": {
+      "name": "language",
+      "backgroundColor": "#FABD00",
+      "color": "#AD1519"
+    }
+}

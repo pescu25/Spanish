@@ -1,0 +1,111 @@
+core:
+  account: Cuenta
+  activity: Actividad
+  administration: Administración
+  alert: Alerta
+  all_discussions: Todas las discusiones
+  before_log_in_link: ¿Ya tiene una cuenta?
+  before_sign_up_link: ¿No tiene una cuenta?
+  bio_placeholder: Escriba algo acerca de usted
+  cannot_reply: No puede responder
+  cannot_reply_help: No tiene permiso para responder en esta discusión.
+  change_email: Cambiar el correo electrónico
+  change_password: Cambiar la contraseña
+  change_password_help: Click the button below and check your email for a link to change your password.
+  close: Cerrar
+  confirm_delete_discussion: ¿Está seguro de que quiere eliminar esta discusión?
+  confirm_discard_discussion: Aún no ha publicado su discusión. ¿Desea descartarla?
+  confirm_discard_edit: Aún no ha guardado sus cambios. ¿Desea descartarlos?
+  confirm_discard_reply: Aún no ha publicado su respuesta. ¿Desea descartarla?
+  confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  controls: Controles
+  delete: Eliminar
+  delete_forever: Eliminar para siempre
+  deleted: "[Eliminado]"
+  disclose_online: Permitir que otros puedan ver cuando estoy conectado
+  discussion_renamed_post: "{username} cambió el título de {old} a {new}."
+  discussion_renamed_notification: "{username} cambió el título"
+  discussion_replied: "Última respuesta {ago} por {username}"
+  discussion_started: "Empezada {ago} por {username}"
+  discussion_title: Título de la discusión
+  discussions: Discusiones
+  dismiss: Descartar
+  edit: Editar
+  editing_post: "Mensaje #{number} en {discussion}"
+  email: Correo electrónico
+  email_confirmation_required: "You need to confirm your email before you can log in. We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  exit_full_screen: Desactivar pantalla completa
+  forgot_password: Contraseña olvidada
+  forgot_password_help: Enter your email address and we will send you a link to reset your password.
+  forgot_password_link: ¿Olvidó su contraseña?
+  full_screen: Pantalla completa
+  go_to: "Ir a {location}"
+  group_admin: Administrador
+  group_admins: Administradores
+  group_guest: Invitado
+  group_guests: Invitados
+  group_member: Miembro
+  group_members: Miembros
+  group_mod: Moderador
+  group_mods: Moderadores
+  invalid_login: Sus credenciales son incorrectas.
+  joined: "Se unió hace {ago}"
+  joined_the_forum: Se unió al foro
+  load_more: Cargar más
+  log_in: Conéctese
+  log_in_to_reply: Conéctese para responder
+  log_out: Desconectar
+  mark_all_as_read: Marcar todo como leído
+  mark_as_read: Marcar como leído
+  minimize: Minimizar
+  no_notifications: Todas las notificaciones
+  notifications: Notificaciones
+  notify_discussion_renamed: Alguien cambia el nombre de una discusión que yo empecé
+  now: Ahora
+  online: Conectado
+  original_post: Mensaje original
+  password: Contraseña
+  password_reset_email_sent: We've sent you an email containing a link to reset your password. Check your spam folder if you don't receive it within the next minute or two.
+  period_later: "{period} más tarde"
+  post_discussion: Publicar discusión
+  post_edited: "{username} editó hace {ago}"
+  post_number: "Mensaje #{number}"
+  post_reply: Publicar respuesta
+  posted_a_reply: Publicó una respuesta
+  posts: Mensajes
+  powered_by_flarum: Funciona con Flarum
+  privacy: Privacidad
+  profile: Perfil
+  prompt_rename_discussion: Introduzca un nuevo título para esta discusión:
+  recover_password: Recuperar la contraseña
+  refresh: Actualizar
+  remove: Eliminar
+  rename: Renombrar
+  reply: Responder
+  reply_posted: Su respuesta fué publicada.
+  restore: Restaurar
+  save_changes: Guardar cambios
+  search_all_discussions: 'Buscar "{query}" en todas las discusiones'
+  search_forum: Buscar en el foro
+  send_password_reset_email: Enviar correo para restablecer la contraseña
+  settings: Configuración
+  sign_up: Regístrese
+  sort_latest: Lo último
+  sort_newest: Más nuevo
+  sort_oldest: Más viejo
+  sort_relevance: Relevancia
+  sort_top: Arriba
+  start_a_discussion: Empezar una discusión
+  started_a_discussion: Empezó una discusión
+  unread_posts: "{count} sin leer"
+  upload: Subir fichero
+  username: Usuario
+  username_or_email: Usuario o correo electrónico
+  users: Usuarios
+  view: Visita
+  viewing_posts:
+    one: "{index} de {count} mensaje"
+    other: "{index} de {count} mensajes"
+  welcome_user: "¡Hola, {username}!"
+  write_a_post: Escriba un mensaje...
+  write_a_reply: Escriba una respuesta...
