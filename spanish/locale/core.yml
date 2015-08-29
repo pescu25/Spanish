@@ -17,7 +17,7 @@ core:
   confirm_discard_discussion: Aún no ha publicado su discusión. ¿Desea descartarla?
   confirm_discard_edit: Aún no ha guardado sus cambios. ¿Desea descartarlos?
   confirm_discard_reply: Aún no ha publicado su respuesta. ¿Desea descartarla?
-  confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  confirmation_email_sent: "Enviamos un email de confirmación a {email}. Si no aparece pronto, busca en correo no deseado."
   controls: Controles
   delete: Eliminar
   delete_forever: Eliminar para siempre
@@ -33,10 +33,10 @@ core:
   edit: Editar
   editing_post: "Mensaje #{number} en {discussion}"
   email: Correo electrónico
-  email_confirmation_required: "You need to confirm your email before you can log in. We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  email_confirmation_required: "Usted debe confirmar su email antes de poder iniciar sesión. Enviamos un email de confirmación a {email}. Si no aparece pronto, busca en correo no deseado."
   exit_full_screen: Desactivar pantalla completa
   forgot_password: Contraseña olvidada
-  forgot_password_help: Enter your email address and we will send you a link to reset your password.
+  forgot_password_help: Escriba su dirección email y le enviaremos un enlace para reestablecer su contraseña.
   forgot_password_link: ¿Olvidó su contraseña?
   full_screen: Pantalla completa
   go_to: "Ir a {location}"
@@ -65,7 +65,7 @@ core:
   online: Conectado
   original_post: Mensaje original
   password: Contraseña
-  password_reset_email_sent: We've sent you an email containing a link to reset your password. Check your spam folder if you don't receive it within the next minute or two.
+  password_reset_email_sent: Le hemos enviado un email que contiene un enlace para reestablecer su contraseña. Revise su correo no deseado si no recibe el mensaje en los próximos minutos.
   period_later: "{period} más tarde"
   post_discussion: Publicar discusión
   post_edited: "{username} editó hace {ago}"
