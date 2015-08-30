@@ -1,7 +1,7 @@
 {
     "name": "spanish",
     "title": "Spanish",
-    "description": "Translates Flarum and its bundled extensions to Spanish",
+    "description": "Translates Flarum and its bundled extensions to Formal Spanish (Usted)",
     "keywords": [""],
     "version": "0.1.0",
     "author": {
