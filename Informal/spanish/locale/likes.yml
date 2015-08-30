@@ -1,5 +1,5 @@
 likes:
-  post_liked_notification: "A {username} le gustó su publicación"
+  post_liked_notification: "A {username} le gustó tu publicación"
   post_likes_modal_title: Usuarios a quienes les gusta esto
   post_liked_by_self: "{users} le gusta esto."
   post_liked_by:
@@ -7,6 +7,6 @@ likes:
     other: "{users} le gusta esto."
   unlike_action: Ya no me gusta
   like_action: Me gusta
-  notify_post_liked: A alguien le gusta su publicación
+  notify_post_liked: A alguien le gusta tu publicación
   others: "{count} personas más"
-  you: Usted
+  you: Tú

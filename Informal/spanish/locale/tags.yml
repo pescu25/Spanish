@@ -4,15 +4,15 @@ tags:
     other: "{username} {action} etiquetas."
   added_tags: "Añadió {tags}"
   removed_tags: "Quitó {tags}"
-  tag_new_discussion_title: Elija las etiquetas para su discusión
+  tag_new_discussion_title: Elije las etiquetas para tu discusión
   edit_discussion_tags_title: "Editar etiquetas para {title}"
   edit_discussion_tags_link: Editar etiquetas
   choose_primary_tags:
-    one: Elija una etiqueta primaria
-    other: "Elija {count} etiquetas primarias"
+    one: Elije una etiqueta primaria
+    other: "Elije {count} etiquetas primarias"
   choose_secondary_tags:
-    one: Elija una etiqueta más
-    other: "Elija {count} etiquetas más"
+    one: Elije una etiqueta más
+    other: "Elije {count} etiquetas más"
   confirm: Confirmar
   more: Más...
   deleted: Borrada

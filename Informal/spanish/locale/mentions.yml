@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "Respuesta a #{number}"
+  post_mentioned_notification: "{username} respondió a tu publicación"
+  others: "{count} personas más"
+  user_mentioned_notification: "{username} te mencionó"
+  post_mentioned_by: "{users} respondieron a esto."
+  you: Usted
+  reply_link: Responder
+  notify_post_mentioned: Alguien respondió a tu publicación
+  notify_user_mentioned: Alguien te ha mencionado en una publicación
