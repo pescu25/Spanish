@@ -1,10 +1,12 @@
 tags:
+  tags: Etiquetas
   discussion_tagged_post:
     one: "{username} {action} etiqueta."
     other: "{username} {action} etiquetas."
   added_tags: "Añadió {tags}"
   removed_tags: "Quitó {tags}"
   tag_new_discussion_title: Elija las etiquetas para su discusión
+  tag_new_discussion_link: Elegir etiquetas
   edit_discussion_tags_title: "Editar etiquetas para {title}"
   edit_discussion_tags_link: Editar etiquetas
   choose_primary_tags:

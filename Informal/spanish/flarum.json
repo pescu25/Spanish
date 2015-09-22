@@ -1,17 +1,16 @@
 {
     "name": "spanish",
     "title": "Spanish",
-    "description": "Translates Flarum and its bundled extensions to Informal Spanish (Tú)",
+    "description": "Translates Flarum and its bundled extensions to Informal Spanish (Tú).",
     "keywords": [""],
-    "version": "0.1.0",
+    "version": "0.1.0-beta.2",
     "author": {
-        "name": "Johann Rodr\u00edguez",
+        "name": "Johann Rodríguez",
         "email": "johann@flarum.es"
     },
     "license": "MIT",
     "require": {
-        "php": ">=5.4.0",
-        "flarum": ">0.1.0"
+        "flarum": ">=0.1.0-beta.2"
     },
     "support": {
         "source": "https://github.com/johannsa/FlarumES",

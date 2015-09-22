@@ -15,6 +15,7 @@ class Extension extends BaseExtension
             $event->manager->addConfig('es', __DIR__.'/../locale/core.php');
             $event->addTranslations('es', __DIR__.'/../locale/bbcode.yml');
             $event->addTranslations('es', __DIR__.'/../locale/emoji.yml');
+            $event->addTranslations('es', __DIR__.'/../locale/flags.yml');
             $event->addTranslations('es', __DIR__.'/../locale/likes.yml');
             $event->addTranslations('es', __DIR__.'/../locale/lock.yml');
             $event->addTranslations('es', __DIR__.'/../locale/markdown.yml');

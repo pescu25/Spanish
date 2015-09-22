@@ -2,7 +2,7 @@ lock:
   discussion_locked_notification: "{username} cerró"
   discussion_locked_post: "{username} cerró la discusión."
   discussion_unlocked_post: "{username} abrió la discusión."
-  notify_discussion_locked: Alguien ha cerrado una discusión que usted empezó
+  notify_discussion_locked: Alguien cerró una discusión que usted empezó
   locked: Cerrado
   lock: Cerrar
   unlock: Abrir

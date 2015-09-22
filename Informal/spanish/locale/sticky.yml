@@ -1,8 +1,8 @@
 sticky:
-  discussion_stickied_notification: "{username} puso una chincheta"
+  discussion_stickied_notification: "{username} puso la chincheta"
   discussion_stickied_post: "{username} puso la chincheta a la discusión."
   discussion_unstickied_post: "{username} quitó la chincheta de la discusión."
-  notify_discussion_stickied: Alguien puso una chincheta a una discusión que tú empezaste
+  notify_discussion_stickied: Alguien puso la chincheta a una discusión que tú empezaste
   stickied: Con chincheta
   sticky: Poner la chincheta
   unsticky: Quitar la chincheta

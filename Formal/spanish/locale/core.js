@@ -22,8 +22,8 @@ moment.locale('es', {
             LTS : 'H:mm:ss',
             L : 'DD/MM/YYYY',
             LL : 'D [de] MMMM [de] YYYY',
-            LLL : 'D [de] MMMM [de] YYYY H:mm',
-            LLLL : 'dddd, D [de] MMMM [de] YYYY H:mm'
+            LLL : 'D [de] MMMM [de] YYYY [a las] H:mm',
+            LLLL : 'dddd, D [de] MMMM [de] YYYY [a las] H:mm'
         },
         calendar : {
             sameDay : function () {
