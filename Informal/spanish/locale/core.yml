@@ -2,11 +2,11 @@ core:
   account: Cuenta
   administration: Administración
   alert: Alerta
-  all_discussions: Discusiones
+  all_discussions: Discusiones # Original: Todas las discusiones
   before_log_in_link: ¿Ya tienes una cuenta?
   before_sign_up_link: ¿Aún no tienes una cuenta?
   bio_placeholder: Escribe algo acerca de tí
-  cannot_reply: No puedes responder
+  cannot_reply: Responder # Original: No puedes responder
   cannot_reply_help: No tienes permiso para responder en esta discusión.
   change_email: Cambiar el correo electrónico
   change_password: Cambiar la contraseña
@@ -51,7 +51,7 @@ core:
   joined: "Se unió hace {ago}"
   load_more: Cargar más
   log_in: Conéctate
-  log_in_to_reply: Conéctate para responder
+  log_in_to_reply: Responder # Original: Conéctate para responder
   log_out: Desconectar
   mark_all_as_read: Marcar todo como leído
   mark_as_read: Marcar como leído
@@ -92,7 +92,7 @@ core:
   sort_oldest: Más viejo
   sort_relevance: Relevancia
   sort_top: Arriba
-  start_a_discussion: Empezar discusión
+  start_a_discussion: Empezar discusión # Original: Empezar una discusión
   unread_posts: "{count} sin leer"
   upload: Subir fichero
   username: Usuario
