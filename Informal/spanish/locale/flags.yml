@@ -1,8 +1,0 @@
-flags:
-  reason_off_topic: Fuera de Tema
-  reason_spam: Spam
-  reason_inappropriate: Inapropiado
-  reason_other: Otros
-  flagged_by: "{username} marcó"
-  flagged_by_with_reason: "{username} marcó como {reason}"
-  no_flags: No hay marcas
