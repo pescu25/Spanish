@@ -1,0 +1,32 @@
+{
+    "name": "flarumes/spanish",
+    "type": "flarum-extension",
+    "description": "Spanish language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johann Rodríguez",
+            "email": "johann@flarum.es"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/FlarumES/Spanish/issues",
+        "source": "https://github.com/FlarumES/Spanish/flags"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Spanish",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#AD1519",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "es",
+            "title": "Spanish"
+        }
+    }
+}
