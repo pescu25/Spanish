@@ -1,3 +1,5 @@
+// Includes code from Moment.js (https://github.com/moment/moment/blob/develop/locale/es.js)
+
 app.translator.plural = function(count) {
   return count == 1 ? 'one' : 'other';
 };

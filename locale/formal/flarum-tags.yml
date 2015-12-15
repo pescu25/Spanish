@@ -4,14 +4,14 @@ flarum-tags:
   # UNIQUE KEYS - The following keys are used in only one location each.
   ##
 
-  # Strings in this namespace are used by the admin interface.
+  # Translations in this namespace are used by the admin interface.
   admin:
 
-    # These strings are used in the Basics page.
+    # These translations are used in the Basics page.
     basics:
       tags_label: => flarum-tags.ref.tags
 
-    # These strings are used in the Edit Tag modal dialog.
+    # These translations are used in the Edit Tag modal dialog.
     edit_tag:
       color_label: Color
       description_label: Descripción
@@ -24,17 +24,18 @@ flarum-tags:
       submit_button: => core.ref.save_changes
       title: => flarum-tags.ref.create_tag
 
-    # These strings are used in the navigation bar.
+    # These translations are used in the navigation bar.
     nav:
       tags_button: => flarum-tags.ref.tags
       tags_text: Gestionar la lista de etiquetas con las que se organizan las discusiones.
 
-    # These strings are used in the Permissions page of the admin interface.
+    # These translations are used in the Permissions page of the admin interface.
     permissions:
+      allow_edit_tags_label: Permitir editar etiquetas
       restrict_by_tag_heading: Restringir por etiqueta
       tag_discussions_label: Etiquetar discusiones
 
-    # These strings are used in the Tag Settings modal dialog.
+    # These translations are used in the Tag Settings modal dialog.
     tag_settings:
       range_separator_text: " a "
       required_primary_heading: Número de etiquetas principales requeridas
@@ -43,7 +44,7 @@ flarum-tags:
       required_secondary_text: Introduzca el numero mínimo y máximo de etiquetas secundarias que pueden ser aplicadas a una discusión.
       title: Configuración de Etiquetas
 
-    # These strings are used in the Tags page.
+    # These translations are used in the Tags page.
     tags:
       about_tags_text: "Las etiquetas se utilizan para organizar las discusiones. Las etiquetas principales son para clasificar las discusiones (p. ej. por temática) y pueden ordenarse y organizarse jerárquicamente en dos niveles. Las etiquetas secundarias no tienen orden ni jerarquía y son útiles para la micro organización."
       create_tag_button: => flarum-tags.ref.create_tag
@@ -51,10 +52,10 @@ flarum-tags:
       secondary_heading: Etiquetas secundarias
       settings_button: Ajustes
 
-  # Strings in this namespace are used by the forum user interface.
+  # Translations in this namespace are used by the forum user interface.
   forum:
 
-    # These strings are used by the Choose Tags modal dialog.
+    # These translations are used by the Choose Tags modal dialog.
     choose_tags:
       choose_primary_placeholder: "Elija 1 etiqueta principal|Elija {count} etiquetas principales"
       choose_secondary_placeholder: "Elija 1 etiqueta secundaria|Elija {count} etiquetas secundarias"
@@ -62,38 +63,38 @@ flarum-tags:
       submit_button: => core.ref.okay
       title: Elija las etiquetas para su discusión
 
-    # These strings are used by the composer when starting a discussion.
+    # These translations are used by the composer when starting a discussion.
     composer_discussion:
       choose_tags_link: Elegir etiquetas
 
-    # These strings are used by the discussion control buttons.
+    # These translations are used by the discussion control buttons.
     discussion_controls:
       edit_tags_button: Editar etiquetas
 
-    # These strings are used on the index page, peripheral to the discussion list.
+    # These translations are used on the index page, peripheral to the discussion list.
     index:
-      tags_link: => flarum-tags.ref.tags
       more_link: Más...
+      tags_link: => flarum-tags.ref.tags
       untagged_link: Sin etiqueta
 
-    # These strings are displayed between posts in the post stream.
+    # These translations are displayed between posts in the post stream.
     post_stream:
       added_tags_text: "{username} añadió {tagsAdded}."
       added_and_removed_tags_text: "{username} añadió {tagsAdded} y eliminó {tagsRemoved}."
       removed_tags_text: "{username} eliminó {tagsRemoved}."
       tags_text: "la etiqueta {tags}|las etiquetas {tags}"
 
-  # Strings in this namespace are used by the forum and admin interfaces.
+  # Translations in this namespace are used by the forum and admin interfaces.
   lib:
 
-    # This string is displayed in place of the name of a tag that's been deleted.
+    # This translation is displayed in place of the name of a tag that's been deleted.
     deleted_tag_text: Borrada
 
   ##
-  # REUSED STRINGS - These keys should not be used directly in code!
+  # REUSED TRANSLATIONS - These keys should not be used directly in code!
   ##
 
-  # Strings in this namespace are referenced by two or more unique keys.
+  # Translations in this namespace are referenced by two or more unique keys.
   ref:
     create_tag: Crear etiqueta
     name: Nombre
