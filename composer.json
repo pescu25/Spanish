@@ -4,8 +4,7 @@
     "description": "Spanish language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+
     "authors": [
         {
             "name": "Johann Rodríguez",
@@ -29,6 +28,8 @@
         "flarum-locale": {
             "code": "es",
             "title": "Spanish"
-        }
+        },
+            "minimum-stability": "stable",
+    "prefer-stable": true
     }
 }
