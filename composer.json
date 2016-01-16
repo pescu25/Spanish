@@ -4,6 +4,8 @@
     "description": "Spanish language pack.",
     "keywords": ["locale"],
     "license": "MIT",
+    "minimum-stability": "beta",
+    "prefer-stable": true
     "authors": [
         {
             "name": "Johann Rodríguez",
