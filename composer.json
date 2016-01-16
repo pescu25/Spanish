@@ -1,10 +1,11 @@
 {
-    "name": "flarumes/spanish",
+    "name": "pescu25/spanish",
     "type": "flarum-extension",
     "description": "Spanish language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Johann Rodríguez",
@@ -29,7 +30,6 @@
             "code": "es",
             "title": "Spanish"
         },
-            "minimum-stability": "stable",
-    "prefer-stable": true
+           
     }
 }
